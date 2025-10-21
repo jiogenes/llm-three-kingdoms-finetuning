@@ -1,4 +1,4 @@
-이 레포지토리는 블로그 포스트에서 사용된 전체 코드입니다.
+이 레포지토리는 [블로그 포스트](https://jiogenes.github.io/llm,/finetuning/2025/10/20/llm_finetuning_three_kingdoms.html)에서 사용된 전체 코드입니다.
 
 ---
 
