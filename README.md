@@ -53,6 +53,8 @@ Your script expects:
 
 /your_home/.cache/huggingface/accelerate/default_config.yaml
 
+CHANGE [THE CODE](https://github.com/jiogenes/llm-three-kingdoms-finetuning/blob/0ba833bbbb46b8ff843a922191ba166bd0a7ac28/finetuning.py#L51C16-L51C26) in the finetuning.py TO YOUR OWN PATH! 
+
 ## Run script
 
 accelerate launch --num_processes 2 finetuning.py
